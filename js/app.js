@@ -14,7 +14,7 @@ const dataPne = {
     title : "This is it",
     para : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quasi velit odit optio inventore ut quis, reprehenderit unde quaerat molestiae doloribus corporis nesciunt laboriosam cupiditate sit tempora! Odit, vel iste!",                   
     button: "Contact Us",
-    image: "manthinking.png"
+    image: "../images/manthinking.png"
 }
 
 const  {title, para, button, image } = dataPne
@@ -23,9 +23,9 @@ const  {title, para, button, image } = dataPne
 
 
 const dataTwo = {
-    image2: "businessCard.png",
-    image3: "businessCard.png",
-    image4: "businessCard.png",
+    image2: "../images/businessCard.png",
+    image3: "../images/businessCard.png",
+    image4: "../images/businessCard.png",
 
     betext : "cards",
     para1 : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos quasi velit odit optio inventore ut quis, reprehenderit unde quaerat molestiae doloribus corporis nesciunt laboriosam cupiditate sit tempora! Odit, vel iste!",
